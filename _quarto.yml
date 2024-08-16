@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: JH's Blog"
@@ -8,7 +9,7 @@ website:
   navbar:
     logo: "/images/logo.png"
     left:
-      - text: "{{< fa chalkboard >}} LLM Course"
+      - text: "{{< fa chalkboard >}} LLM"
         href: https://github.com/mlabonne/llm-course
       - text: "{{< fa book >}} Leetcode"
         file: leetcode.qmd
@@ -25,8 +26,6 @@ website:
         href: https://www.linkedin.com/in/jiawei-huang-4ba6a2190/?locale=en_US
       - icon: github
         href: https://github.com/jiaweih14
-      # - text: "![](https://mlabonne.github.io/blog/images/hf-icon.svg)"
-      #   href: https://huggingface.co/mlabonne
     pinned: false
   google-analytics: "G-4DWYJM47PC"
   favicon: /images/favicon.ico
@@ -106,17 +105,17 @@ website:
   #           - text: "What is a Tensor"
   #             href: posts/2022-03-28-What_is_a_Tensor_in_Deep_Learning.html
 
-  #   - id: notes
-  #     title: "Notes"
-  #     style: "floating"
-  #     collapse-level: 2
-  #     align: left
-  #     contents:
-  #       - section: "🗣️ **Large language models**"
-  #         contents: "notes/Large Language Models/*"
-  #       - text: "---"
-  #       - section: "💡 **Machine learning**"
-  #         contents: "notes/Machine Learning/*"
+    # - id: notes
+    #   title: "Notes"
+    #   style: "floating"
+    #   collapse-level: 2
+    #   align: left
+    #   contents:
+    #     - section: "🗣️ **Large language models**"
+    #       contents: "notes/Large Language Models/*"
+    #     - text: "---"
+    #     - section: "💡 **Machine learning**"
+    #       contents: "notes/Machine Learning/*"
 format:
   html:
     page-layout: article
