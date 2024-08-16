@@ -12,11 +12,9 @@ website:
       - text: "{{< fa chalkboard >}} LLM"
         href: https://github.com/mlabonne/llm-course
       - text: "{{< fa book >}} Leetcode"
-        file: leetcode.qmd
-      - text: "{{< fa pen >}} Notes"
-        file: notes.qmd
-      # - text: "{{< fa flask >}} Research"
-      #   file: publications.qmd
+        file: https://jiaweih14.github.io/leetcode/
+      - text: "{{< fa pen >}} Blog"
+        file: https://jiaweih14.github.io/blogs/
       - text: "{{< fa address-card >}} About"
         href: https://jiaweih14.github.io/
     right:
