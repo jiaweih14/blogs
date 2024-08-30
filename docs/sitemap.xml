@@ -2,35 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jiaweih14.github.io/blogs/index.html</loc>
-    <lastmod>2024-08-15T23:39:28.018Z</lastmod>
+    <lastmod>2024-08-16T05:51:37.789Z</lastmod>
   </url>
   <url>
-    <loc>https://jiaweih14.github.io/blogs/posts/Quantize_Llama_2_models_using_ggml.html</loc>
-    <lastmod>2024-08-15T22:57:18.427Z</lastmod>
+    <loc>https://jiaweih14.github.io/blogs/posts/Attention_to_Transformer.html</loc>
+    <lastmod>2024-08-16T23:34:37.172Z</lastmod>
   </url>
   <url>
-    <loc>https://jiaweih14.github.io/blogs/posts/Introduction_to_Weight_Quantization.html</loc>
-    <lastmod>2024-08-15T22:57:13.238Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweih14.github.io/blogs/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html</loc>
-    <lastmod>2024-08-15T22:57:05.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweih14.github.io/blogs/notes.html</loc>
-    <lastmod>2024-08-15T20:39:27.656Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweih14.github.io/blogs/posts/ExLlamaV2_The_Fastest_Library_to_Run LLMs.html</loc>
-    <lastmod>2024-08-15T22:56:56.558Z</lastmod>
+    <loc>https://jiaweih14.github.io/blogs/posts/A_Beginners_Guide_to_LLM_Finetuning.html</loc>
+    <lastmod>2024-08-15T22:56:49.390Z</lastmod>
   </url>
   <url>
     <loc>https://jiaweih14.github.io/blogs/posts/4_bit_Quantization_with_GPTQ.html</loc>
     <lastmod>2024-08-15T22:56:39.490Z</lastmod>
   </url>
   <url>
-    <loc>https://jiaweih14.github.io/blogs/posts/A_Beginners_Guide_to_LLM_Finetuning.html</loc>
-    <lastmod>2024-08-15T22:56:49.390Z</lastmod>
+    <loc>https://jiaweih14.github.io/blogs/posts/ExLlamaV2_The_Fastest_Library_to_Run LLMs.html</loc>
+    <lastmod>2024-08-15T22:56:56.558Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaweih14.github.io/blogs/notes.html</loc>
+    <lastmod>2024-08-15T20:39:27.656Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaweih14.github.io/blogs/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html</loc>
+    <lastmod>2024-08-15T22:57:05.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaweih14.github.io/blogs/posts/Introduction_to_Weight_Quantization.html</loc>
+    <lastmod>2024-08-15T22:57:13.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaweih14.github.io/blogs/posts/Quantize_Llama_2_models_using_ggml.html</loc>
+    <lastmod>2024-08-15T22:57:18.427Z</lastmod>
   </url>
   <url>
     <loc>https://jiaweih14.github.io/blogs/demo.html</loc>
